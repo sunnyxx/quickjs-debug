@@ -1,6 +1,6 @@
 # quickjs-debug
-`quickjs` is a lightweight jscore created by Fabrice Bellard
-official website: [https://bellard.org/quickjs/](https://bellard.org/quickjs/)
+`quickjs` is a lightweight js engine created by Fabrice Bellard  
+official website: [https://bellard.org/quickjs/](https://bellard.org/quickjs/)  
 this git embes quickjs source code (version 2019-07-09) in Xcode project, helps to debug and learn it.
 
 # how to run
